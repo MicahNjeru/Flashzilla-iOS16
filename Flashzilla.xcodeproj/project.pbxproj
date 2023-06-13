@@ -41,7 +41,6 @@
 			isa = PBXGroup;
 			children = (
 				75E9BC422A36FADC00D5996F /* README.md */,
-				75E9BC452A36FDE600D5996F /* CardView.swift */,
 				75E9BC332A36FA6E00D5996F /* Flashzilla */,
 				75E9BC322A36FA6E00D5996F /* Products */,
 			);
@@ -60,6 +59,7 @@
 			children = (
 				75E9BC342A36FA6E00D5996F /* FlashzillaApp.swift */,
 				75E9BC362A36FA6E00D5996F /* ContentView.swift */,
+				75E9BC452A36FDE600D5996F /* CardView.swift */,
 				75E9BC432A36FD1000D5996F /* Card.swift */,
 				75E9BC382A36FA6E00D5996F /* Assets.xcassets */,
 				75E9BC3A2A36FA6E00D5996F /* Preview Content */,
