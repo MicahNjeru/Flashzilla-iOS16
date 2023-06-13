@@ -6,4 +6,6 @@
 ## What I learned
 How to:
 1. Design an app that supports landscape orientation only 
+2. Add accessibility features
+3. Fix bugs
 
